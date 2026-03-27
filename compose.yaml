@@ -1,0 +1,5 @@
+spring.docker.compose.enabled=false
+
+# Future services will be added here
+  # Currently empty - will add Docker services in the future
+
