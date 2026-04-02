@@ -1,7 +1,7 @@
-package com.techforce.assesment.Controller;
+package com.techforce.assesment.controller;
 
 import com.techforce.assesment.Model.User;
-import com.techforce.assesment.Service.UserService;
+import com.techforce.assesment.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.techforce.assesment.Service;
+package com.techforce.assesment.service;
 
 import com.techforce.assesment.Model.User;
 
